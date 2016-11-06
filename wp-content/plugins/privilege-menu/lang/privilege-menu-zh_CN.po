@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Privilege Menu v1.4\n"
+"POT-Creation-Date: 2015-09-12 11:05+1000\n"
+"PO-Revision-Date: 2015-09-12 11:06+1000\n"
+"Language-Team: FuzzGuard <info@fuzzguard.com.au>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customWalker.php:233
+msgid "User Restrictions"
+msgstr "用户限制"
+
+#: customWalker.php:241
+msgid "Logged Out Users"
+msgstr "已注销用户"
+
+#: customWalker.php:248
+msgid "Logged In Users"
+msgstr "登录的用户"
+
+#: customWalker.php:255
+msgid "All Users"
+msgstr "全部用户"
+
+#: customWalker.php:262
+msgid "Access Role"
+msgstr "访问角色"
+
+#: customWalker.php:262
+msgid "leave all unchecked to allow all logged in users to see the menu."
+msgstr "保留所有选中允许所有登录的用户看到菜单"

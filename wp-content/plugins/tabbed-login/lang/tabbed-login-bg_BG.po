@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Tabbed Login\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Nemskia Nemski <nemskisega@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: de\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#. Text in echo
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr "Запомни ме"
+
+#. Text in function
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "Съобщение беше изпратено на вашият email."
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Admin"
+msgstr "Администратор"
+
+#. Text in echo
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+"Проверете вашата поща за паролата и след това се върнете за да се логнете."
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr "Моля, проверете пощата си за да може да въведете нова."
+
+#. Text in function
+#: tabbed-login.php:190
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr "Покажи в табуларна форма Login/Register/LostPassword в сайдбара."
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr ""
+"Моля въвете вашето потребителско име или парола за да възобновите паролата "
+"си."
+
+#. Text in echo
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "Забравен"
+
+#. Text in echo
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "Вече регистриран?"
+
+#. Text in echo
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "Изход"
+
+#. Text in echo
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "Вход"
+
+#. Text in echo
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "Загубена парола?"
+
+#. Text in echo
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "Няма налични опции за този уиджет."
+
+#. Text in echo
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "Бележка:моля не поставайте същият уиджет два пъта в страницата."
+
+#. Text in echo
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "Парола"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Profile"
+msgstr "Профил"
+
+#. Text in echo
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "Регистрация"
+
+#. Text in echo
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "Регистрация за този сайт!"
+
+#. Text in echo
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "Премахване на старата парола"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "Запишете се сега за да получите добрите най-доброто."
+
+#. Text in echo
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "Регистрирате се!"
+
+#. Text in echo
+#: tabbed-login.php:84
+msgid "Success!"
+msgstr "Успех!"
+
+#. Text in echo
+#: tabbed-login.php:123
+msgid "Username"
+msgstr "Потребителско име"
+
+#. Text in echo
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "Потребителско име или поща"
+
+#. Text in echo
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "Добре дошли,"
+
+#. Text in echo
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "Вие сте в системата като"
+
+#. Text in echo
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "Вашата поща"

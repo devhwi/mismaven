@@ -1,0 +1,24 @@
+/*
+Theme Name: BootstrapWP
+Theme URI: http://bootstrapwp.rachelbaker.me
+Author: Rachel Baker
+Author URI: http://www.rachelbaker.me
+Description: A semantic HTML/CSS framework base theme for WordPress Developers ported from Twitter Bootstrap
+Version: 1.0
+=======
+License: GNU General Public License
+License URI: license.txt
+
+This theme, like WordPress, is licensed under the GPL.
+
+The development of BootstrapWP was powered by Sublime Text 2 and lots of Diet Coke.
+Use this starter theme to make something cool.  Please share the results with me via Twitter @rachelbaker.
+Enjoy!
+
+*/
+/********************************************************
+
+Comfortable with LESS?  Check out the /assets/css/less folder where the bootstrapwp.less file is the master complier
+
+Not comfortable with LESS?  You can override the compiled bootstrapwp.css file by adding custom styles here.
+-------------------------------------------------- */

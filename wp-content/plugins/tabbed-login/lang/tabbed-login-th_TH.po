@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#. Text in echo
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr "จำฉันไว้"
+
+#. Text in function
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "ข้อความได้ถูกส่งไปยังอีเมลของคุณ"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Admin"
+msgstr "แอดมิน"
+
+#. Text in echo
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr "กรุณาตรวจสอบอีเมลเพื่อดูรหัสผ่านและโปรดกลับเข้าสู่ระบบอีกครั้ง"
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr "กรูราตรวจสอบอีเมลเพื่อสร้างรหัสผ่านใหม่"
+
+#. Text in function
+#: tabbed-login.php:190
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr "แสดงแท็บ เข้าระบบ/ลงทะเบียน/ลืมรหัสผ่าน จากแท็บบาร์"
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr "กรอก ชื่อผู้ใช้ หรือ อีเมล เพื่อสร้างรหัสผ่านใหม่"
+
+#. Text in echo
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "ลืมรหัสผ่าน"
+
+#. Text in echo
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "มีบัญชีแล้ว"
+
+#. Text in echo
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "ออกระบบ"
+
+#. Text in echo
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "เข้าระบบ"
+
+#. Text in echo
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "ลืมรหัสผ่าน?"
+
+#. Text in echo
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "ไม่มีการตั้งค่าวิดเจ็ดนี้"
+
+#. Text in echo
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "แนะนำ : อย่าวางสองวิดเจ็ดในหน้าเดียวกัน"
+
+#. Text in echo
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "รหัสผ่าน"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Profile"
+msgstr "โปร์ไฟล์"
+
+#. Text in echo
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "ลงทะเบียน"
+
+#. Text in echo
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "ลงทะเบียนไซต์นี้!"
+
+#. Text in echo
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "ขอรหัสผ่านใหม่"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "ลงทะเบียนวันนี้"
+
+#. Text in echo
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "ลงทะเบีนน"
+
+#. Text in echo
+#: tabbed-login.php:84
+msgid "Success!"
+msgstr "สำเร็จ!"
+
+#. Text in echo
+#: tabbed-login.php:123
+msgid "Username"
+msgstr "ชื่อผู้ใช้"
+
+#. Text in echo
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "ชื่อผู้ใช้ หรือ อีเมล"
+
+#. Text in echo
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "ยินดีต้อนรับ คุณ"
+
+#. Text in echo
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "คุณเข้าสู่ระบบแล้ว"
+
+#. Text in echo
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "อีเมลของคุณ"

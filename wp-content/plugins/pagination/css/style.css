@@ -1,0 +1,19 @@
+/**
+ * styles settings page
+ */
+.pgntn_input {
+	display: inline-block;
+}
+.pgntn-empty-position {
+	clear: left;
+}
+@media only screen and ( max-width: 320px ) {
+	#pgntn_settings_page code {
+		display: block;
+		width: 200px;
+	}
+	.pgntn_input {
+		display: block;
+		margin-left: 0;
+	}
+}

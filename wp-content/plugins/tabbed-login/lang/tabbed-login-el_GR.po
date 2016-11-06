@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: ΜΕΤΑΦΡΑΣΗ ΣΤΑ ΕΛΛΗΝΙΚΑ v1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kleanthis Manolopoulos <akis_manolopoulos@hotmail.com>\n"
+"Language-Team: ΚΛΕΑΝΘΗΣ ΜΑΝΩΛΟΠΟΥΛΟΣ <akis_manolopoulos@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: ΕΛΛΗΝΙΚΑ\n"
+
+#. Text in echo
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr "Να με θυμάσαι"
+
+#. Text in function
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "Ένα μήνυμα έχει σταλεί στο email σας."
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Admin"
+msgstr "Διαχειριστής"
+
+#. Text in echo
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+"Ελέγξτε το email σας για τον κωδικό πρόσβασης και στη συνέχεια επιστρέψτε "
+"για να συνδεθείτε."
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr "Ελέγξτε το email σας για να επαναφέρετε τον κωδικό πρόσβασής σας."
+
+#. Text in function
+#: tabbed-login.php:190
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr ""
+"Εμφάνιση φόρμας Καρτελών Σύνδεση/Εγγραφή/Χαμένος Κωδικός πρόσβασης στην "
+"Sidebar."
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr ""
+"Εισάγετε το Όνομα χρήστη ή το Email σας για να επαναφέρετε τον κωδικό "
+"πρόσβασής σας."
+
+#. Text in echo
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "Ξεχάσατε"
+
+#. Text in echo
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "Έχετε έναν λογαριασμό;"
+
+#. Text in echo
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "Αποσύνδεση"
+
+#. Text in echo
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "Σύνδεση"
+
+#. Text in echo
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "Χάσατε τον κωδικό σας;"
+
+#. Text in echo
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "Δεν υπάρχουν επιλογές για αυτό το widget."
+
+#. Text in echo
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "Σημείωση: Μην τοποθετείτε το ίδιο widget δύο φορές σε μια σελίδα."
+
+#. Text in echo
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "Κωδικός"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Profile"
+msgstr "Προφίλ"
+
+#. Text in echo
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "Εγγραφή"
+
+#. Text in echo
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "Εγγραφείτε στην ιστοσελίδα!"
+
+#. Text in echo
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "Επαναφορά του κωδικού πρόσβασης"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "Εγγραφείτε τώρα για καλύτερο υλικό."
+
+#. Text in echo
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "Εγγραφείτε!"
+
+#. Text in echo
+#: tabbed-login.php:84
+msgid "Success!"
+msgstr "Επιτυχία!"
+
+#. Text in echo
+#: tabbed-login.php:123
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#. Text in echo
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "Όνομα χρήστη ή Email"
+
+#. Text in echo
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "Καλώς ήρθατε,"
+
+#. Text in echo
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "Έχετε συνδεθεί ως "
+
+#. Text in echo
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "Το Email σας"

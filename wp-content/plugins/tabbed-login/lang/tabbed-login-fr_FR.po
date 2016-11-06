@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tabbed Login\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: FxB <fx@fxbenard.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_attr_e;esc_attr__;esc_html_e;"
+"esc_html__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+
+#. Text in echo
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr "Se souvenir de moi"
+
+#. Text in function
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "Un message a été envoyé à votre adresse e-mail."
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Admin"
+msgstr "Admin"
+
+#. Text in echo
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+"Vérifiez votre e-mail pour le mot de passe, puis revenez pour vous connecter."
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr ""
+"Consultez votre boite mail pour la notification de réinitialisation de votre "
+"mot de passe."
+
+#. Text in function
+#: tabbed-login.php:190
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr ""
+"Affiche Tabbed Login/S'inscrire/Formulaire de Mot de passe perdu dans la "
+"barre latérale."
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr ""
+"Entrez votre nom d'utilisateur ou email pour réinitialiser votre mot de "
+"passe."
+
+#. Text in echo
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "Oublié ?"
+
+#. Text in echo
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "Vous avez un compte ?"
+
+#. Text in echo
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "Déconnexion"
+
+#. Text in echo
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "Se connecter"
+
+#. Text in echo
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "Mot de passe oublié ?"
+
+#. Text in echo
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "Il n'y a pas d'option disponible pour ce widget."
+
+#. Text in echo
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "Remarque : Ne mettez pas le même widget deux fois dans une page."
+
+#. Text in echo
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "Mot de passe"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Profile"
+msgstr "Profil"
+
+#. Text in echo
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "Inscription"
+
+#. Text in echo
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "S'inscrire sur ce site !"
+
+#. Text in echo
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "Réinitialiser mon mot de passe"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "Inscrivez-vous pour les bonnes choses."
+
+#. Text in echo
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "Inscription !"
+
+#. Text in echo
+#: tabbed-login.php:84
+msgid "Success!"
+msgstr "Succès !"
+
+#. Text in echo
+#: tabbed-login.php:123
+msgid "Username"
+msgstr "Identifiant"
+
+#. Text in echo
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "Identifiant ou adresse de messagerie"
+
+#. Text in echo
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "Bienvenue,"
+
+#. Text in echo
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "Vous êtes déjà connecté(e) en tant que "
+
+#. Text in echo
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "Votre e-mail"

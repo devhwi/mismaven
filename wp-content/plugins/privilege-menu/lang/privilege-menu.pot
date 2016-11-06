@@ -1,0 +1,40 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Privilege Menu v1.4\n"
+"POT-Creation-Date: 2015-09-12 11:01+1000\n"
+"PO-Revision-Date: 2015-01-16 17:34+1000\n"
+"Last-Translator: \n"
+"Language-Team: FuzzGuard <info@fuzzguard.com.au>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customWalker.php:233
+msgid "User Restrictions"
+msgstr ""
+
+#: customWalker.php:241
+msgid "Logged Out Users"
+msgstr ""
+
+#: customWalker.php:248
+msgid "Logged In Users"
+msgstr ""
+
+#: customWalker.php:255
+msgid "All Users"
+msgstr ""
+
+#: customWalker.php:262
+msgid "Access Role"
+msgstr ""
+
+#: customWalker.php:262
+msgid "leave all unchecked to allow all logged in users to see the menu."
+msgstr ""

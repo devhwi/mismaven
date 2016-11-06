@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: Albanian\n"
+
+#. Text in echo
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr "Kujtomë!"
+
+#. Text in function
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "Një mesazh u dërgua në postën tuaj elektronike!"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Admin"
+msgstr "Admin"
+
+#. Text in echo
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr "Kontrolloni postën tuaj elektronike dhe rikthehuni këtu për të hyrë!"
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr "Kontrolloni postën tuaj elektronike për të rimarrë fjalëkalimin!"
+
+#. Text in function
+#: tabbed-login.php:190
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr "Shfaq formën Hyr/Rregjistrohu/Fjalëkalim i Humbur në shiritin anësor!"
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr "Shkruani nofkën ose emailin tuaj për të rimarrë fjalëkalimin!"
+
+#. Text in echo
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "Harrova"
+
+#. Text in echo
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "Jeni pjesëmarrës?"
+
+#. Text in echo
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "Largohuni!"
+
+#. Text in echo
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "Hyr!"
+
+#. Text in echo
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "Humbët fjalëkalimin?"
+
+#. Text in echo
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "S'ka opsion të tillë për këtë mjet."
+
+#. Text in echo
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "Shënim: Mos e vendosni të njëjtin mjet dy herë në të njëjtën faqe!"
+
+#. Text in echo
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "Fjalëkalimi"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Profile"
+msgstr "Profili"
+
+#. Text in echo
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "Rregjistrohu"
+
+#. Text in echo
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "Rregjistrohu në këtë faqe interneti!"
+
+#. Text in echo
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "Rivendos fjalëkalimin"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "Bëhuni pjesëmarrës!"
+
+#. Text in echo
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "Rregjistrohuni!"
+
+#. Text in echo
+#: tabbed-login.php:84
+msgid "Success!"
+msgstr "U krye!"
+
+#. Text in echo
+#: tabbed-login.php:123
+msgid "Username"
+msgstr "Nofka"
+
+#. Text in echo
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "Nofka ose emaili"
+
+#. Text in echo
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "Mirësevini, "
+
+#. Text in echo
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "Ju keni hyrë si "
+
+#. Text in echo
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "Emaili juaj"

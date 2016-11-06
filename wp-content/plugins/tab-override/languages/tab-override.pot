@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tab Override\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-03 12:33-0500\n"
+"PO-Revision-Date: 2013-09-03 12:34-0500\n"
+"Last-Translator: Bill Bryant <bill@wjbryant.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-tab-override.php:120
+msgid "The Tab Override plugin requires WordPress version 3.3 or higher."
+msgstr ""
+
+#: includes/class-tab-override.php:195
+msgid "Edit settings for this plugin"
+msgstr ""
+
+#: includes/class-tab-override.php:196
+msgid "Settings"
+msgstr ""
+
+#: includes/class-tab-override.php:217
+msgid "Visit author homepage"
+msgstr ""
+
+#: includes/class-tab-override.php:284 includes/class-tab-override.php:661
+msgid "Tab Override Settings"
+msgstr ""
+
+#: includes/class-tab-override.php:291
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-tab-override.php:294
+msgid "Tab Override Documentation at tinsology.net"
+msgstr ""
+
+#: includes/class-tab-override.php:294
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-tab-override.php:295
+msgid "Tab Override Page at wjbryant.com"
+msgstr ""
+
+#: includes/class-tab-override.php:306
+msgid ""
+"These options control how the tab and enter keys function in the HTML editor."
+msgstr ""
+
+#: includes/class-tab-override.php:315
+msgid "Leave blank to use the tab character (default)"
+msgstr ""
+
+#: includes/class-tab-override.php:325
+msgid "Enable auto indent"
+msgstr ""
+
+#: includes/class-tab-override.php:337 includes/class-tab-override.php:350
+#: includes/class-tab-override.php:409 includes/class-tab-override.php:419
+#: includes/class-tab-override.php:429 includes/class-tab-override.php:439
+#: includes/class-tab-override.php:449
+msgid "default:"
+msgstr ""
+
+#: includes/class-tab-override.php:338 includes/class-tab-override.php:351
+msgid "Keys are represented by keyCode number. Press Esc to exit the field."
+msgstr ""
+
+#: includes/class-tab-override.php:361
+msgid "Add a tabs on/off button to the HTML editor toolbar"
+msgstr ""
+
+#: includes/class-tab-override.php:371
+msgid "Dashboard (QuickPress / Recent Comments)"
+msgstr ""
+
+#: includes/class-tab-override.php:374
+msgid "Post / Page"
+msgstr ""
+
+#: includes/class-tab-override.php:377
+msgid "New Post / New Page"
+msgstr ""
+
+#: includes/class-tab-override.php:380
+msgid "Edit Comments"
+msgstr ""
+
+#: includes/class-tab-override.php:383
+msgid "Comment"
+msgstr ""
+
+#: includes/class-tab-override.php:386
+msgid "Theme Editor"
+msgstr ""
+
+#: includes/class-tab-override.php:389
+msgid "Plugin Editor"
+msgstr ""
+
+#: includes/class-tab-override.php:397
+msgid ""
+"These options control the jQuery selectors that are used for each page. This "
+"is useful for solving compatibility issues with other plugins."
+msgstr ""
+
+#: includes/class-tab-override.php:399
+msgid ""
+"Warning: Changing these settings may cause WordPress to function improperly."
+msgstr ""
+
+#: includes/class-tab-override.php:400
+msgid "Do not change these settings unless you know what you are doing!"
+msgstr ""
+
+#: includes/class-tab-override.php:473
+msgid "The tab size must be a number between 1 and 100."
+msgstr ""
+
+#: includes/class-tab-override.php:555
+msgid "HTML Editor"
+msgstr ""
+
+#: includes/class-tab-override.php:562
+msgid "Tab Size (number 1-100)"
+msgstr ""
+
+#: includes/class-tab-override.php:570
+msgid "Auto Indent"
+msgstr ""
+
+#: includes/class-tab-override.php:578
+msgid "Tab Key Combination"
+msgstr ""
+
+#: includes/class-tab-override.php:586
+msgid "Untab Key Combination"
+msgstr ""
+
+#: includes/class-tab-override.php:594
+msgid "Tabs On/Off Toolbar Button"
+msgstr ""
+
+#: includes/class-tab-override.php:602
+msgid "Enable Tab Override on these pages"
+msgstr ""
+
+#: includes/class-tab-override.php:611
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-tab-override.php:618
+msgid "Dashboard"
+msgstr ""
+
+#: includes/class-tab-override.php:626
+msgid "Post"
+msgstr ""
+
+#: includes/class-tab-override.php:634
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/class-tab-override.php:642
+msgid "Editor"
+msgstr ""
+
+#: includes/class-tab-override.php:650
+msgid "Other"
+msgstr ""
+
+#: includes/class-tab-override.php:732
+msgid "Turn Tab Override on"
+msgstr ""
+
+#: includes/class-tab-override.php:733
+msgid "tabs on"
+msgstr ""
+
+#: includes/class-tab-override.php:734
+msgid "Turn Tab Override off"
+msgstr ""
+
+#: includes/class-tab-override.php:735
+msgid "tabs off"
+msgstr ""

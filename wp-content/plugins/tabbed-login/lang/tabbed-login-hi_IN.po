@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr "याद रखें"
+
+#. Text in function
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "संदेश आपके ईमेल पते पर भेजा है."
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Admin"
+msgstr "ऐडमिनिस्ट्रेटर"
+
+#. Text in echo
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr "पासवर्ड के लिए अपने ईमेल की जाँच करें और फिर लोगिन करने के लिए वापसी करें"
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr "अपने ईमेल की जांच पासवर्ड रीसेट करने के लिए करें"
+
+#. Text in function
+#: tabbed-login.php:190
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr "साइडबार में लॉगिन फार्म प्रदर्शित करें."
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr "अपना पासवर्ड रीसेट करने के लिए यूज़रनेम या ईमेल दर्ज करें"
+
+#. Text in echo
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "भूल गए"
+
+#. Text in echo
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "आपके पास खाता है?"
+
+#. Text in echo
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "बाहर "
+
+#. Text in echo
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "लॉग इन"
+
+#. Text in echo
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "आपका पासवर्ड खो गया?"
+
+#. Text in echo
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "इस विजेट के लिए कोई विकल्प उपलब्ध नहीं है."
+
+#. Text in echo
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "नोट: एक पृष्ठ में दो बार एक ही विजेट न डाले"
+
+#. Text in echo
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "पासवर्ड"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+#. Text in echo
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "रजिस्टर"
+
+#. Text in echo
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "इस साइट पर रजिस्टर करें"
+
+#. Text in echo
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "अपना पासवर्ड रीसेट करें"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "अच्छी चीजो के लिए अभी साइन अप करें."
+
+#. Text in echo
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "साइन अप करें!"
+
+#. Text in echo
+#: tabbed-login.php:84
+msgid "Success!"
+msgstr "सफलता!"
+
+#. Text in echo
+#: tabbed-login.php:123
+msgid "Username"
+msgstr "यूज़रनेम"
+
+#. Text in echo
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "यूज़रनेम या ई - मेल"
+
+#. Text in echo
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "आपका स्वागत है"
+
+#. Text in echo
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "आप लॉग इन हैं"
+
+#. Text in echo
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "आपका ईमेल"

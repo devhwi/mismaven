@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Mirek Rybníček <mrybnicekk@centrum.cz>\n"
+"Language: cs_CS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr " Pamatuj si mé přihlášení"
+
+#. Text in function
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "Zpráva byla odeslaná na váš e-mail."
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Admin"
+msgstr "Admin"
+
+#. Text in echo
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr "Zkontrolujte si svoji emailovou adresu a potom se znovu přihlaste."
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr "Zkontrolujte si svoji emailovou adresu pro reset hesla."
+
+#. Text in function
+#: tabbed-login.php:190
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr "Zobrazi záložky Přihlášení/Registrace/Zapomenuté heslo v boční liště."
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr "Vložte své jméno nebo email pro reset hesla."
+
+#. Text in echo
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "Reset"
+
+#. Text in echo
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "Máte již své méno a heslo?"
+
+#. Text in echo
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "Odhlásit se"
+
+#. Text in echo
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "Přihlásit se"
+
+#. Text in echo
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "Zapomněli jste heslo?"
+
+#. Text in echo
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "Žádná nastavení pro tento widget."
+
+#. Text in echo
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "Poznámka: nedávejte tento widget na stránku více jak jednou."
+
+#. Text in echo
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "Heslo"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Profile"
+msgstr "Profil"
+
+#. Text in echo
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "Registrovat"
+
+#. Text in echo
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "Registrujte se na této stránce!"
+
+#. Text in echo
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "Reset hesla"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "Přihlaste se ihned."
+
+#. Text in echo
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "Přihlásit!"
+
+#. Text in echo
+#: tabbed-login.php:84
+msgid "Success!"
+msgstr "Podařilo se!"
+
+#. Text in echo
+#: tabbed-login.php:123
+msgid "Username"
+msgstr "Jméno"
+
+#. Text in echo
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "Jméno nebo email"
+
+#. Text in echo
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "Vítejte, "
+
+#. Text in echo
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "jste přihlášen jako "
+
+#. Text in echo
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "váš email"

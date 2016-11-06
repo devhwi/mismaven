@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pagination\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-20 18:36+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: plugin@bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft team <wp@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n%10==1 && n%100!=11) ? 3 : "
+"((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pagination.php:38
+msgid "Pagination Settings"
+msgstr "Налаштування Pagination"
+
+#: pagination.php:111
+msgid "« Previous"
+msgstr "« Попередня"
+
+#: pagination.php:112
+msgid "Next »"
+msgstr "Наступна »"
+
+#: pagination.php:201
+msgid "Settings saved."
+msgstr "Налаштування збережено."
+
+#: pagination.php:207
+msgid "All plugin settings were restored."
+msgstr "Всі налаштування плагіну було скинуто до стандартних."
+
+#: pagination.php:212 pagination.php:817 pagination.php:836
+msgid "Settings"
+msgstr "Налаштування"
+
+#: pagination.php:213
+msgid "Appearance"
+msgstr "Відображення"
+
+#: pagination.php:214
+msgid "Custom code"
+msgstr "Користувацький код"
+
+#: pagination.php:222
+msgid "Notice:"
+msgstr "Зауважте:"
+
+#: pagination.php:222
+msgid ""
+"Choose some page types to display plugin`s pagination in frontend of your "
+"site."
+msgstr "Виберіть типи сторінок для відображення блоку навігації у фронтенді."
+
+#: pagination.php:226
+msgid ""
+"If you would like to display pagination block in a different place on your "
+"site, add the following strings into the file"
+msgstr ""
+"Якщо Ви хочете відображати блок навігації в іншому місці сайту, додайте "
+"наступні строки у файл"
+
+#: pagination.php:226
+msgid "of your theme"
+msgstr "Вашої теми"
+
+#: pagination.php:228
+msgid ""
+"Also you can display pagination block for paginated posts or pages. Add the "
+"following strings into to the appropriate templates source code of your theme"
+msgstr ""
+"Також Ви можете відображати блок навігації для мультисторінкових постів чи "
+"сторінок. Додайте наступні строки у відповідний код шаблонів Вашої теми"
+
+#: pagination.php:230
+msgid ""
+"Paste this into the comments template if you want to display pagination for "
+"comments"
+msgstr ""
+"Вставте цей код у шаблон коментарів, якщо Ви хочете відображати блок "
+"навігації для коментарів"
+
+#: pagination.php:239
+msgid "Display pagination"
+msgstr "Відображення навігації"
+
+#: pagination.php:242
+msgid "everywhere"
+msgstr "Скрізь"
+
+#: pagination.php:243
+msgid "on home page"
+msgstr "на домашній сторінці"
+
+#: pagination.php:244
+msgid "on blog page"
+msgstr "на сторінці блогу"
+
+#: pagination.php:245
+msgid "on archive pages ( by categories, date, tags etc. )"
+msgstr "в архівах ( за категоріями, датами, тегами і т.д. )"
+
+#: pagination.php:246
+msgid "on search results page"
+msgstr "на сторінці виводу результатів пошуку"
+
+#: pagination.php:251
+msgid "Pagination position"
+msgstr "Розміщення навігації"
+
+#: pagination.php:254
+msgid "above the main content"
+msgstr "перед основним контентом"
+
+#: pagination.php:255
+msgid "below the main content"
+msgstr "після основного контенту"
+
+#: pagination.php:256
+msgid "above and below the main content"
+msgstr "перед і після основного контенту"
+
+#: pagination.php:257
+msgid "via function only"
+msgstr "тільки за допомогою функції"
+
+#: pagination.php:262
+msgid "Display 'Page __ of __' block"
+msgstr "Відображати блок 'Сторінка __ з __'"
+
+#: pagination.php:268
+msgid "Display Next/Previous arrows"
+msgstr "Відображати Попередня/Наступна стрілки"
+
+#: pagination.php:272
+msgid "text for previous page link"
+msgstr "текст для посилання на попередню сторінку"
+
+#: pagination.php:273
+msgid "text for next page link"
+msgstr "текст для посилання на наступну сторінку"
+
+#: pagination.php:278
+msgid "Type of output"
+msgstr "Тип виводу"
+
+#: pagination.php:281
+msgid "all numbers of pages"
+msgstr "номери всіх сторінок"
+
+#: pagination.php:282
+msgid "shorthand output"
+msgstr "скорочений вивід"
+
+#: pagination.php:283
+msgid "numbers to either side of current page, but not including current page."
+msgstr ""
+"кількість номерів сторінок з обох сторін від поточної сторінки, не включаючи "
+"її."
+
+#: pagination.php:288
+msgid "Hide standard pagination"
+msgstr "Приховати стандартну навігацію"
+
+#: pagination.php:291
+msgid "posts pagination"
+msgstr "навігація по записам"
+
+#: pagination.php:292
+msgid "on paginated posts or pages"
+msgstr "для багатосторінкових записів чи сторінок"
+
+#: pagination.php:293
+msgid "comments pagination"
+msgstr "навігація по коментарях"
+
+#: pagination.php:296
+msgid ""
+"Used for standard WordPress themes or themes, which use standard CSS-classes "
+"for displaying pagination blocks"
+msgstr ""
+"Застосувати до стандартних тем WordPress і тем, що використовують стандартні "
+"CSS-класи для відображення блоку навігації"
+
+#: pagination.php:301
+msgid "Hide custom pagination"
+msgstr "Приховати додаткову навігацію"
+
+#: pagination.php:309
+msgid ""
+"Enter one (or more comma-separated) CSS-classes or ID of blocks which you "
+"would like to hide."
+msgstr ""
+"Введіть один (чи декілька розділених комами) CSS класів чи ID блоків, що "
+"потрібно приховати."
+
+#: pagination.php:310
+msgid "Example"
+msgstr "Наприклад"
+
+#: pagination.php:312 pagination.php:314
+msgid "or"
+msgstr "чи"
+
+#: pagination.php:324
+msgid "Add styles"
+msgstr "Додати стилі"
+
+#: pagination.php:330
+msgid "Page pagination block width"
+msgstr "Ширина блоку навігації"
+
+#: pagination.php:336
+msgid "Pagination align"
+msgstr "Розміщення навігації"
+
+#: pagination.php:338
+msgid "Left"
+msgstr "Зліва"
+
+#: pagination.php:339
+msgid "Center"
+msgstr "По центру"
+
+#: pagination.php:340
+msgid "Right"
+msgstr "Справа"
+
+#: pagination.php:344
+msgid "Left margin"
+msgstr "Відступ зліва"
+
+#: pagination.php:350
+msgid "Right margin"
+msgstr "Відступ справа"
+
+#: pagination.php:356
+msgid "Background color"
+msgstr "Колір фону"
+
+#: pagination.php:362
+msgid "Background color for current page"
+msgstr "Колір фону для поточної сторінки"
+
+#: pagination.php:368
+msgid "Text color for page"
+msgstr "Колір тексту"
+
+#: pagination.php:374
+msgid "Text color for current page"
+msgstr "Колір тексту поточної сторінки"
+
+#: pagination.php:380
+msgid "Border color"
+msgstr "Колір межі"
+
+#: pagination.php:386
+msgid "Border width"
+msgstr "Ширина межі"
+
+#: pagination.php:392
+msgid "Border radius"
+msgstr "Радіус межі"
+
+#: pagination.php:400
+msgid "Save Changes"
+msgstr "Зберегти Зміни"
+
+#: pagination.php:647 pagination.php:667
+msgid "Page"
+msgstr "Сторінка"
+
+#: pagination.php:647 pagination.php:667 pagination.php:691 pagination.php:770
+msgid "of"
+msgstr "з"
+
+#: pagination.php:691
+msgid "Pages"
+msgstr "Сторінок"
+
+#: pagination.php:770
+msgid "Comments Page"
+msgstr "Сторінка коментарів"
+
+#: pagination.php:837
+msgid "FAQ"
+msgstr "FAQ"
+
+#: pagination.php:838
+msgid "Support"
+msgstr "Техпідтримка"
+
+#~ msgid ""
+#~ "The plugin's settings have been changed. In order to save them, please "
+#~ "don't forget to click the 'Save Changes' button."
+#~ msgstr ""
+#~ "Налаштування плагіну змінено. Щоб зберегти їх, будь ласка, не забудьте "
+#~ "клікнути 'Зберегти'."

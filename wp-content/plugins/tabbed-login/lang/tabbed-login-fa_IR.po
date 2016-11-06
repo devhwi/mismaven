@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Tabbed Login Persian\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Amir Maskani <AmirMaskani@gmail.com>\n"
+"Language-Team: Emir.ir <AmirMaskani@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.4\n"
+"Language: Persian\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Text in echo
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr "مرا به خاطر بسپار"
+
+#. Text in function
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "یک پیام به آدرس ایمیل شما ارسال شد."
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Admin"
+msgstr "پنل مدیریت"
+
+#. Text in echo
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr "برای گذرواژه خود ایمیلتان را بررسی کنید و سپس به صفحه ورود بازگردید."
+
+#. Text in echo
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr "ایمیل خود را برای بازنشانی گذرواژه بررسی کنید."
+
+#. Text in function
+#: tabbed-login.php:190
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr "نمایش جدول بندی شده فرم ورود/ثبت نام/فراموشی گذرواژه در نوارکناری"
+
+#. Text in echo
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr "نام کاربری یا ایمیل خود را جهت بازنشانی گذرواژه خود وارد کنید."
+
+#. Text in echo
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "فراموشی"
+
+#. Text in echo
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "آیا یک شناسه دارید؟"
+
+#. Text in echo
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "خروج"
+
+#. Text in echo
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "ورود"
+
+#. Text in echo
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "گذرواژه خود را گم کرده اید؟"
+
+#. Text in echo
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "برای این ابزارک هیچ تنظیماتی در دسترس نیست."
+
+#. Text in echo
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "نکته : این ابزارک را در یک صفحه دو بار به صورت همزمان قرار ندهید."
+
+#. Text in echo
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "گذرواژه"
+
+#. Text in function
+#: tabbed-login.php:178
+msgid "Profile"
+msgstr "شناسنامه"
+
+#. Text in echo
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "ثبت نام"
+
+#. Text in echo
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "ثبت نام برای این سایت !"
+
+#. Text in echo
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "بازنشانی گذرواژه من"
+
+#. Text in echo
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "همکنون ثبت نام کن برای چیزهای خوب."
+
+#. Text in echo
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "ثبت نام!"
+
+#. Text in echo
+#: tabbed-login.php:84
+msgid "Success!"
+msgstr "موفقیت آمیز!"
+
+#. Text in echo
+#: tabbed-login.php:123
+msgid "Username"
+msgstr "نام کاربری"
+
+#. Text in echo
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "نام کاربری یا ایمیل"
+
+#. Text in echo
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "خوش آمدید ،"
+
+#. Text in echo
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "شما وارد شده اید به عنوان "
+
+#. Text in echo
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "ایمیل شما"

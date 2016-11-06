@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Privilege Menu v1.4\n"
+"POT-Creation-Date: 2015-01-14 12:29+1000\n"
+"PO-Revision-Date: 2015-02-05 12:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: FuzzGuard <info@fuzzguard.com.au>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /privilege-menu\n"
+
+#: /privilege-menu/customWalker.php:222
+msgid "User Restrictions"
+msgstr "Ograničenja korisnika"
+
+#: /privilege-menu/customWalker.php:230
+msgid "Admin Users"
+msgstr "Korisnici administratori"
+
+#: /privilege-menu/customWalker.php:237
+msgid "Logged Out Users"
+msgstr "Odjavljeni korisnici"
+
+#: /privilege-menu/customWalker.php:244
+msgid "Logged In Users"
+msgstr "Prijavljeni korisnici"
+
+#: /privilege-menu/customWalker.php:251
+msgid "All Users"
+msgstr "Svi korisnici"

@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Peter's Login Redirect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-10 21:10-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter <peter@keung.biz>\n"
+"Language-Team: theblog.ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;esc_attr_e;"
+"esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wplogin_redirect.php:579
+msgid "Register"
+msgstr "Registere"
+
+#: wplogin_redirect.php:583
+msgid "Site Admin"
+msgstr "Side administrator"
+
+#: wplogin_redirect.php:705
+msgid "ERROR: Non-existent username submitted "
+msgstr "FEJL: Ikke eksisterne bruger navn indsendt"
+
+#: wplogin_redirect.php:715
+msgid "ERROR: Non-existent role submitted "
+msgstr "FEJL: Ikke eksisterne rolle indsendt"
+
+#: wplogin_redirect.php:726
+msgid "ERROR: Non-existent level submitted "
+msgstr "FEJL: Ikke eksisterne niveau indsendt"
+
+#: wplogin_redirect.php:743
+#, fuzzy, php-format
+msgid "ERROR: Empty %s submitted "
+msgstr "FEJL: Ikke eksisterne rolle indsendt"
+
+#: wplogin_redirect.php:772 wplogin_redirect.php:834
+#, fuzzy, php-format
+msgid "ERROR: Non-local or invalid URL submitted for %s %s"
+msgstr "FEJL: Ikke lokal eller ugyldig URL indsendt for bruger"
+
+#: wplogin_redirect.php:798
+#, fuzzy, php-format
+msgid "ERROR: Unknown error adding %s-specific redirect for %s %s"
+msgstr "FEJL: Ukendt fejl under opdatering af bruger specifik URL for bruger"
+
+#: wplogin_redirect.php:805
+#, fuzzy, php-format
+msgid "Successfully added %s-specific redirect rule for %s"
+msgstr "Bruger specifikke URL's opdateret succesfuldt"
+
+#: wplogin_redirect.php:863
+#, fuzzy, php-format
+msgid "ERROR: Unknown error editing %s-specific redirect for %s %s"
+msgstr "FEJL: Ukendt fejl under opdatering af bruger specifik URL for bruger"
+
+#: wplogin_redirect.php:870
+#, fuzzy, php-format
+msgid "Successfully edited %s-specific redirect rule for %s"
+msgstr "Bruger specifikke URL's opdateret succesfuldt"
+
+#: wplogin_redirect.php:898
+#, fuzzy, php-format
+msgid "ERROR: Unknown error deleting %s-specific redirect for %s %s"
+msgstr "FEJL: Ukendt fejl under opdatering af bruger specifik URL for bruger"
+
+#: wplogin_redirect.php:904
+#, fuzzy, php-format
+msgid "Successfully deleted %s-specific redirect rule for %s"
+msgstr "Bruger specifikke URL's opdateret succesfuldt"
+
+#: wplogin_redirect.php:939
+msgid ""
+"ERROR: Unknown database problem removing URL for &#34;all other users&#34; "
+msgstr ""
+"FEJL: Ukendt database problem under fjernelse af URL for &#34;Alle andre "
+"bruger&#34;"
+
+#: wplogin_redirect.php:943
+msgid "Successfully removed URL for &#34;all other users&#34; "
+msgstr "URL for &#34;Alle andre bruger&#34; fjernet succesfuldt"
+
+#: wplogin_redirect.php:954 wplogin_redirect.php:1023
+msgid "ERROR: Non-local or invalid URL submitted "
+msgstr "FEJL: Ikke lokal eller ugyldig URL indsendt"
+
+#: wplogin_redirect.php:967
+msgid ""
+"ERROR: Unknown database problem updating URL for &#34;all other users&#34; "
+msgstr ""
+"FEJL: Ukendt databse problem under opdatering af URL for &#34;Alle andre "
+"bruger&#34;"
+
+#: wplogin_redirect.php:971
+msgid "Successfully updated URL for &#34;all other users&#34;"
+msgstr "URL"
+
+#: wplogin_redirect.php:1010
+msgid ""
+"ERROR: Unknown database problem removing URL for &#34;post-registration&#34; "
+msgstr ""
+"FEJL: Ukendt database problem under fjernelse af URL for &#34;Indlæg "
+"registering&#34;"
+
+#: wplogin_redirect.php:1013
+msgid "Successfully removed URL for &#34;post-registration&#34; "
+msgstr "URL for &#34;Indlæg registering&#34; fjernet  succesfuldt"
+
+#: wplogin_redirect.php:1036
+msgid ""
+"ERROR: Unknown database problem updating URL for &#34;post-registration&#34; "
+msgstr ""
+"FEJL: Ukendt database problem under opdatering af URL for &#34;Indlæg "
+"registering&#34;"
+
+#: wplogin_redirect.php:1040
+msgid "Successfully updated URL for &#34;post-registration&#34;"
+msgstr "URL for &#34;Indlæg registering&#34; opdateret succesfuldt"
+
+#: wplogin_redirect.php:1066
+msgid "Successfully updated plugin settings"
+msgstr "Plugin indstillinger opdateret succesfuldt"
+
+#: wplogin_redirect.php:1215 wplogin_redirect.php:1233
+#: wplogin_redirect.php:1250
+#, fuzzy
+msgid "Login URL"
+msgstr "Log ud URL:"
+
+#: wplogin_redirect.php:1216 wplogin_redirect.php:1234
+#: wplogin_redirect.php:1251
+#, fuzzy
+msgid "Logout URL"
+msgstr "Log ud URL:"
+
+#: wplogin_redirect.php:1218 wplogin_redirect.php:1236
+#: wplogin_redirect.php:1254
+msgid "Edit"
+msgstr ""
+
+#: wplogin_redirect.php:1218 wplogin_redirect.php:1236
+#: wplogin_redirect.php:1254 wplogin_redirect.php:1362
+#: wplogin_redirect.php:1370
+msgid "Delete"
+msgstr "Slet"
+
+#: wplogin_redirect.php:1277
+msgid "Manage redirect rules"
+msgstr "Administrer omdirigerings regler"
+
+#: wplogin_redirect.php:1279
+msgid ""
+"Define custom URLs to which different users, users with specific roles, "
+"users with specific levels, and all other users will be redirected upon "
+"login."
+msgstr ""
+"Definere URL's til hvilken forskellige bruger, brugere med specifikke "
+"roller, bruger med et specifikt niveau og alle andre bruger vil blive "
+"omdirigeret til når de logger ind."
+
+#: wplogin_redirect.php:1280
+msgid "Define a custom URL to which all users will be redirected upon logout"
+msgstr ""
+"Definere en URL til hvilken alle bruger vil blive omdirigeret til når de "
+"logger ud"
+
+#: wplogin_redirect.php:1281
+msgid ""
+"Note that you can use the syntax <strong>[variable]username[/variable]</"
+"strong> in your URLs so that the system will build a dynamic URL upon each "
+"login, replacing that text with the users username."
+msgstr ""
+"Info: Du kan bruge syntaxen <strong>[variable]username[/variable]</strong> i "
+"dine URL's så vil systemet lave en dynamisk URL ved hvert log ind, hvor "
+"teksten erstattes af brugerens brugernavn."
+
+#: wplogin_redirect.php:1283
+msgid "Specific users"
+msgstr "Specifikke brugere"
+
+#: wplogin_redirect.php:1294 wplogin_redirect.php:1316
+#: wplogin_redirect.php:1346
+msgid "Add:"
+msgstr "Tilføj:"
+
+#: wplogin_redirect.php:1296
+msgid "Select a username"
+msgstr "Vælg et bruger navn"
+
+#: wplogin_redirect.php:1299 wplogin_redirect.php:1321
+#: wplogin_redirect.php:1352 wplogin_redirect.php:1360
+#: wplogin_redirect.php:1369
+msgid "URL:"
+msgstr "URL:"
+
+#: wplogin_redirect.php:1300 wplogin_redirect.php:1322
+#: wplogin_redirect.php:1353 wplogin_redirect.php:1361
+msgid "Logout URL:"
+msgstr "Log ud URL:"
+
+#: wplogin_redirect.php:1302
+msgid "Add username rule"
+msgstr ""
+
+#: wplogin_redirect.php:1305
+msgid "Specific roles"
+msgstr "Specifikke roller"
+
+#: wplogin_redirect.php:1318
+msgid "Select a role"
+msgstr "Vælg en rolle"
+
+#: wplogin_redirect.php:1324
+msgid "Add role rule"
+msgstr ""
+
+#: wplogin_redirect.php:1327
+msgid "Specific levels"
+msgstr "Specifikke niveauer"
+
+#: wplogin_redirect.php:1336
+msgid "Order"
+msgstr "Rækkefølge"
+
+#: wplogin_redirect.php:1348
+msgid "Select a level"
+msgstr "Vælg et niveau"
+
+#: wplogin_redirect.php:1351
+msgid "Order:"
+msgstr "Rækkefølge:"
+
+#: wplogin_redirect.php:1355
+msgid "Add level rule"
+msgstr ""
+
+#: wplogin_redirect.php:1358
+msgid "All other users"
+msgstr "Alle andre bruger"
+
+#: wplogin_redirect.php:1362 wplogin_redirect.php:1370
+#: wplogin_redirect.php:1447
+msgid "Update"
+msgstr "Opdatere"
+
+#: wplogin_redirect.php:1367
+msgid "Post-registration"
+msgstr "Indlæg registering"
+
+#: wplogin_redirect.php:1375
+msgid "Customize plugin settings"
+msgstr "Tilpas plugin indstillinger"
+
+#: wplogin_redirect.php:1380
+msgid "Redirect restrictions"
+msgstr "Omdirigere restriktioner"
+
+#: wplogin_redirect.php:1384
+msgid "Any http or https URL"
+msgstr "Enhver http eller https URL"
+
+#: wplogin_redirect.php:1385
+msgid "Any URL"
+msgstr "Enhver URL"
+
+#: wplogin_redirect.php:1386
+msgid "Any URL on the same domain"
+msgstr "Enhver URL på det samme domæne"
+
+#: wplogin_redirect.php:1392
+msgid ""
+"Allow a POST or GET &#34;redirect_to&#34; variable to take redirect "
+"precedence"
+msgstr ""
+"Tillad et indlæg eller GET &#34;redirect_to&#34; variabel at tage "
+"omdirigerings præcedens"
+
+#: wplogin_redirect.php:1396 wplogin_redirect.php:1407
+#: wplogin_redirect.php:1419
+msgid "Yes"
+msgstr "Ja"
+
+#: wplogin_redirect.php:1397 wplogin_redirect.php:1408
+#: wplogin_redirect.php:1420
+msgid "No"
+msgstr "Nej"
+
+#: wplogin_redirect.php:1403
+msgid ""
+"Allow a POST or GET &#34;redirect_to&#34; logout variable to take redirect "
+"precedence"
+msgstr ""
+"Tillad et indlæg eller GET &#34;redirect_to&#34; log ud variabel at tage "
+"omdirigerings præcedens"
+
+#: wplogin_redirect.php:1415
+#, fuzzy, php-format
+msgid ""
+"Use external redirect file. Set this to &#34;Yes&#34; if you are using a "
+"plugin such as Gigya that bypasses the regular WordPress redirect process "
+"(and allows only one fixed redirect URL). Then, set the redirect URL in the "
+"other plugin to %s"
+msgstr ""
+"Brug ekstern omdirigerings fil. Indstil denne til &#34;Ja&#34; hvis du "
+"bruger et plugin så som Gigya, der overskriver den almindelige WordPress "
+"omdirigerings process (og tillad kun en fast omdirigerings URL). Så indstil "
+"omdirigerings URL til %s"
+
+#: wplogin_redirect.php:1426
+msgid "Permission level required to edit redirect URLs"
+msgstr "Tilladelse niveau, der kræves for at ændre omdirigerings URL's"
+
+#~ msgid "ERROR: Non-local or invalid URL submitted for role "
+#~ msgstr "FEJL: Ikke lokal eller ugyldig URL indsendt for rolle"
+
+#~ msgid "ERROR: Unknown error updating role-specific URL for role "
+#~ msgstr "FEJL: Ukendt fejl under opdatering af rolle specifik URL for rolle"
+
+#~ msgid "Successfully updated role-specific URLs"
+#~ msgstr "Rolle specifikke URL's opdateret succesfuldt"
+
+#~ msgid "ERROR: Non-local or invalid URL submitted for level "
+#~ msgstr "FEJL: Ikke lokal eller ikke gyldig URL indsendt for niveau"
+
+#~ msgid "ERROR: Unknown error updating level-specific URL for level "
+#~ msgstr ""
+#~ "FEJL: Ukendt fejl under opdatering af niveau specifik URL for niveau"
+
+#~ msgid "Successfully updated level-specific URLs"
+#~ msgstr "Neveau specifikke URL's opdateret succesfuldt"
+
+#~ msgid "Username"
+#~ msgstr "Bruger navn"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Role"
+#~ msgstr "Rolle"
+
+#~ msgid "Level"
+#~ msgstr "Niveau"

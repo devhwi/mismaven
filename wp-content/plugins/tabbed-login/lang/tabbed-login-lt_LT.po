@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tabbed Login Widget v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-03-25 09:49+0200\n"
+"Last-Translator: admin <ovlasov49@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ tabbed-login
+#: tabbed-login.php:40
+msgid "Display Tabbed Login/Register/LostPassword form in sidebar."
+msgstr ""
+"Rodoma Prisijungimo/Registracijos/Pamesto slaptažodžio lenteles šoniniame "
+"meniu."
+
+# @ tabbed-login
+#: tabbed-login.php:68 tabbed-login.php:109
+msgid "Login"
+msgstr "Jungtis"
+
+# @ tabbed-login
+#: tabbed-login.php:70
+msgid "Register"
+msgstr "Registracija"
+
+# @ tabbed-login
+#: tabbed-login.php:72
+msgid "Forgot"
+msgstr "Pamiršote slaptažodį?"
+
+# @ tabbed-login
+#: tabbed-login.php:79 tabbed-login.php:84
+msgid "Success!"
+msgstr "Atlikta!"
+
+# @ tabbed-login
+#: tabbed-login.php:80
+msgid "Check your email for the password and then return to log in."
+msgstr ""
+"Patikrinkite savo pašto dėžutę, joje turite rasti prisijungimo duomenis, "
+"pasinaudodami jais prisijunkite prie sistemos."
+
+# @ tabbed-login
+#: tabbed-login.php:85
+msgid "Check your email to reset your password."
+msgstr ""
+"Patikrinkite savo pašto dėžutę, joje turite rasti tolimesnius nurodymus."
+
+# @ tabbed-login
+#: tabbed-login.php:89
+msgid "Have an account?"
+msgstr "Turite paskyrą?"
+
+# @ tabbed-login
+#: tabbed-login.php:95 tabbed-login.php:123
+msgid "Username"
+msgstr "Vartotojo vardas"
+
+# @ tabbed-login
+#: tabbed-login.php:99
+msgid "Password"
+msgstr "Slaptažodis"
+
+# @ tabbed-login
+#: tabbed-login.php:105
+msgid " Remember me"
+msgstr " Prisiminti mane"
+
+# @ tabbed-login
+#: tabbed-login.php:119
+msgid "Register for this site!"
+msgstr "Registruotis šioje svetainėje!"
+
+# @ tabbed-login
+#: tabbed-login.php:120
+msgid "Sign up now for the good stuff."
+msgstr "Registruoti vartotojai turi daugiau privilegijų."
+
+# @ tabbed-login
+#: tabbed-login.php:127
+msgid "Your Email"
+msgstr "Jūsų el. pašto adresas"
+
+# @ tabbed-login
+#: tabbed-login.php:132
+msgid "Sign up!"
+msgstr "Registruotis!"
+
+# @ tabbed-login
+#: tabbed-login.php:143
+msgid "Lost Your Password?"
+msgstr "Pamiršote slaptažodį?"
+
+# @ tabbed-login
+#: tabbed-login.php:144
+msgid "Enter your username or email to reset your password."
+msgstr ""
+"Norėdami atkurti savo slaptažodį - įveskite savo vartotojo vardą arba "
+"elektroninio pašto adresą."
+
+# @ tabbed-login
+#: tabbed-login.php:147
+msgid "Username or Email"
+msgstr "Prisijungimo vardas arba el. pašto adresas"
+
+# @ tabbed-login
+#: tabbed-login.php:152
+msgid "Reset my password"
+msgstr "Nustatyti slaptažodį iš naujo?"
+
+# @ tabbed-login
+#: tabbed-login.php:153
+msgid "A message was sent to your email address."
+msgstr "Pranešimas nusiųstas Jūsų nurodytu el. pašto adresu."
+
+# @ tabbed-login
+#: tabbed-login.php:164
+msgid "Welcome, "
+msgstr "Sveiki,"
+
+# @ tabbed-login
+#: tabbed-login.php:175
+msgid "You are logged in as "
+msgstr "Jūs esate prisijungęs kaip"
+
+# @ tabbed-login
+#: tabbed-login.php:177
+msgid "Log out"
+msgstr "Atsijungti"
+
+# @ tabbed-login
+#: tabbed-login.php:179
+msgid "Admin"
+msgstr "Redaguoti"
+
+# @ tabbed-login
+#: tabbed-login.php:180
+msgid "Profile"
+msgstr "Profilis"
+
+# @ tabbed-login
+#: tabbed-login.php:197
+msgid "No option available for this widget."
+msgstr "Parinkčių šiam valdikliui nėra."
+
+# @ tabbed-login
+#: tabbed-login.php:198
+msgid "Note : Do not put the same widget twice in a page."
+msgstr "Pastaba: Nedėkite valdiklio tame pačiame puslapyje kelis kartus."
