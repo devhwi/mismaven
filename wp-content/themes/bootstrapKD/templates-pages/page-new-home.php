@@ -12,15 +12,9 @@
 <html>
 <head>
   <title>fullPage.js - Hwi Test</title>
-  <link rel="stylesheet" type="text/css" href="javascript.fullPage.css" />
+  <link rel="stylesheet" type="text/css" href="../fullPage/javascript.fullPage.css" />
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-  <!-- This following line is optional. Only necessary if you use the option css3:false and you want to use other easing effects rather than "linear", "swing" or "easeInOutCubic". -->
-  <script src="../vendors/jquery.easings.min.js"></script>
-
-  <!-- This following line is only necessary in the case of using the plugin option `scrollOverflow:true` -->
-  <!--<script type="text/javascript" src="../vendors/scrolloverflow.min.js"></script>-->
 </head>
 <body>
   <div id="fullpage">
@@ -31,7 +25,7 @@
     <div class="section" id="section4"><h1>Some section5</h1></div>
     <div class="section" id="section5"><h1>Some section6</h1></div>
   </div>
-  <script type="text/javascript" src="javascript.fullPage.js"></script>
+  <script type="text/javascript" src="../fullPage/javascript.fullPage.js"></script>
   <script type="text/javascript">
   	fullpage.initialize('#fullpage', {
   		anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage', 'lastPage', 'realLast'],
