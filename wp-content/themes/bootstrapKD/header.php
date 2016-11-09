@@ -32,23 +32,7 @@
 </head>
 
 <body <?php body_class(); ?>  data-spy="scroll" data-target=".bs-docs-sidebar" data-offset="10">
-    <!--
-    <div class="container">
-        <div class="row">
-            <div class="span7">
-            </div>
-            <div class='span5'>
-                <ul>
-                    <li>로그인</li>
-                    <li>로그인2</li>
-                    <li>로그인3</li>
-                    <li>로그인4</li>
-                </ul>
-            </div>
-        </div>
-    </div>
--->
-    <div class="navbar navbar-inverse navbar-relative-top">      
+    <div class="navbar navbar-inverse navbar-relative-top">
         <div class="navbar-inner" id="navbar-inner">
             <div class="container">
 
@@ -70,7 +54,7 @@
                             'menu_id' => 'main-menu',
                             'walker' => new Bootstrapwp_Walker_Nav_Menu()
                         )
-                    ); 
+                    );
                     ?>
                 </div>
             </div>
