@@ -1,0 +1,25 @@
+<wpml-config>
+  <admin-texts>
+    <key name="business_elite_options">
+      <key name="seo_home_titletext" />
+      <key name="seo_home_descriptiontext" />
+      <key name="seo_home_keywordstext" />
+      <key name="footer_text" />
+      <key name="logo_text" />
+      <key name="top_posts_title" />
+      <key name="top_posts_description" />
+      <key name="content_posts_title" />
+      <key name="content_posts_description" />
+      <key name="portfolio_title" />
+      <key name="portfolio_description" />
+      <key name="contact_us_title" />
+      <key name="contact_us_description" />
+      <key name="contact_us_name" />
+      <key name="contact_us_address" />
+      <key name="slider_head" />
+      <key name="slider_head_href" />
+      <key name="slider_head_title" />
+      <key name="slider_head_desc" />
+    </key>
+  </admin-texts>
+</wpml-config>

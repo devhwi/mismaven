@@ -6,22 +6,22 @@
  * @subpackage BootstrapWP
  */
 ?>
-    <footer>
-            <div class="footerbottom">
-                        <p style="text-align:center; font-size:13px;">[30019] 세종특별자치시 세종로 2511 고려대학교 세종캠퍼스 경영정보학과</p>   
-                        <p style="text-align:center;">Copyright ⓒ <span>MAVEN</span> All Rights Reserved</p>            
+    <!-- <footer> -->
+        <div class="footerbottom">
+            <p style="text-align:center; font-size:13px;">[30019] 세종특별자치시 세종로 2511 고려대학교 세종캠퍼스 경영정보학과</p>
+            <p style="text-align:center;">Copyright ⓒ <span>MAVEN</span> All Rights Reserved</p>
 
-                    </div>
+        </div>
 
-                    <a href="#0" class="cd-top">Top</a>
-    </footer> <!-- end footer -->
+        <a href="#section0" class="cd-top">Top</a>
+    <!-- </footer>--> <!-- end footer -->
         <?php wp_footer(); ?>
 
         <!-- jQuery . footer  back to top 기능 -->
         <script type="text/javascript">
 			jQuery(document).ready(function($){
 				// browser window scroll (in pixels) after which the "back to top" link is shown
-				var offset = 300,
+				var offset = 0,
 					//browser window scroll (in pixels) after which the "back to top" link opacity is reduced
 					offset_opacity = 1200,
 					//duration of the top scrolling animation (in ms)
@@ -32,7 +32,7 @@
 				//hide or show the "back to top" link
 				$(window).scroll(function(){
 					( $(this).scrollTop() > offset ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
-					if( $(this).scrollTop() > offset_opacity ) { 
+					if( $(this).scrollTop() > offset_opacity ) {
 						$back_to_top.addClass('cd-fade-out');
 					}
 				});

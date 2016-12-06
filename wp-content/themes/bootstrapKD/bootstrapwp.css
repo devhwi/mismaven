@@ -702,7 +702,7 @@ h4 small {
 ul#hoverul,
 ol {
   padding: 0;
-  margin: 0 0 10px 50px !important; 
+  margin: 0 0 10px 50px !important;
 }
 ul ul,
 ul ol,
@@ -3855,7 +3855,7 @@ input[type="submit"].btn.btn-mini {
   color: #ffffff;
   /*
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  
+
   background-image: -moz-linear-gradient(top, #f2f2f2, #e5e5e5);
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f2f2f2), to(#e5e5e5));
   background-image: -webkit-linear-gradient(top, #f2f2f2, #e5e5e5);
@@ -6180,7 +6180,7 @@ a.badge:hover {
  }
 /*
  #pagebox {
-  border:1px solid #e6e4e4;  
+  border:1px solid #e6e4e4;
 }
 #pagebox .img1 {
   border:1px solid #e6e4e4;
@@ -6188,7 +6188,7 @@ a.badge:hover {
   height:100px !important;
 }
 #pagebox .img2 {
-  border:1px solid #e6e4e4;  
+  border:1px solid #e6e4e4;
   width:100px !important;
   height:100px !important;
 }
@@ -6636,7 +6636,7 @@ footer  ul  li {
 
 /****************page box**************************************************************/
 #pagebox {
-  border-left:1px solid #e6e4e4;  
+  border-left:1px solid #e6e4e4;
   float:right;
 
 
@@ -6675,7 +6675,7 @@ footer  ul  li {
 
 #maintable1 {
   margin-bottom:15px;
-  margin-left:50px;  
+  margin-left:50px;
 
 }
 #maintable2 {
@@ -6807,7 +6807,7 @@ footer  ul  li {
   height: 270px;
   border: none;
   vertical-align:bottom;
-  
+
 }
 .recommend .text {
   color: #ffffff;
@@ -6980,12 +6980,12 @@ ul li.menu-item {
   }
   .nav p.hubp span {
     color: #9a1629;
-  }  
+  }
   .hub-menu-item {
 list-style-type: none;
   }
   .hub-menu-item:hover{
-    
+
     background-color: #f4f4f4;
   }
 

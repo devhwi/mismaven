@@ -8,16 +8,18 @@
  */
 get_header();
 ?>
-
+        <script>
+          alert("메이븐 웹사이트 리뉴얼중입니다."); // 작업 완료시 삭제
+        </script>
         <div class="container main1">
             <div class="row">
                 <div class="span4 wall">
-                    <p class="mainpa">MAVEN 리뉴얼중입니다.<span id="moremore"><a href="http://mismaven.kr/?page_id=48"><i class="fa fa-plus"></i></a></span></p>                 
+                    <p class="mainpa">MAVEN 리뉴얼중입니다.<span id="moremore"><a href="http://mismaven.kr/?page_id=48"><i class="fa fa-plus"></i></a></span></p>
                 </div>
 
                 <div class="span4 wall">
                     <p class="mainpa">공지사항<span id="moremore"><a href="http://mismaven.kr/?page_id=36"><i class="fa fa-plus"></i></a></span></p>
-                    <?php echo do_shortcode('[kboard_latestview id=2]'); ?>                      
+                    <?php echo do_shortcode('[kboard_latestview id=2]'); ?>
                 </div>
 
                     <?php get_sidebar('blog2'); ?>
@@ -26,13 +28,13 @@ get_header();
                 <div class="container">
                 <div class="row">
                     <div class="span8 wall">
-                        <?php 
-                            echo do_shortcode("[metaslider id=92]"); 
+                        <?php
+                            echo do_shortcode("[metaslider id=92]");
                         ?>
                 </div>
                  <?php get_sidebar('blog'); ?>
         </div>
-            </div> 
+            </div>
 <!--
         <div class="container">
             <div class="row">
@@ -53,10 +55,10 @@ get_header();
                                 <div class="recommend">
                                     <?php // Post thumbnail conditional display.
                                     if ( bootstrapwp_autoset_featured_img() !== false ) : ?>
-                                        
+
                                                 <?php echo bootstrapwp_autoset_featured_img(); ?>
                                                 <div class="text"><?php the_title();?></div>
-                                           
+
                                         </div>
                                     <?php else : ?>
 
@@ -101,7 +103,7 @@ get_header();
 (function($) {
 
   $.fn.menumaker = function(options) {
-      
+
       var cssmenu = $(this), settings = $.extend({
         title: "Menu",
         format: "dropdown",
@@ -113,7 +115,7 @@ get_header();
         $(this).find("#menu-button").on('click', function(){
           $(this).toggleClass('menu-opened');
           var mainmenu = $(this).next('ul');
-          if (mainmenu.hasClass('open')) { 
+          if (mainmenu.hasClass('open')) {
             mainmenu.hide().removeClass('open');
           }
           else {

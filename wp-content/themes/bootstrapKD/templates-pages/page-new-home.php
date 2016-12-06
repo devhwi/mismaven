@@ -1,39 +1,84 @@
 <?php
 /**
- * Template Name: Page - New Home
- * Description: Maven New Home
- * Writer: Jonghwi, Lee
- * Creation Date: 2016.11.6
- *
- * @package WordPress
- * @subpackage BootstrapWP
- */
+* Template Name: Page - New Home
+* Description: Maven New Home
+* Writer: Jonghwi, Lee
+* Creation Date: 2016.11.6
+*
+* @package WordPress
+* @subpackage BootstrapWP
+*/
 get_header();
 ?>
 <html>
 <head>
-  <title>fullPage.js - Hwi Test</title>
-  <link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri();?>/fullPage/javascript.fullPage.css" />
-
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+    <style>
+    #section0 {
+        background-color: #8f1822;
+        text-align: center;
+    }
+    #section0-content{
+        width:100%;
+        color: #fff;
+        margin: auto;
+        display:inline-block;
+        text-align: center;
+        transform: translate(0%, 45%);
+    }
+    #section1 {
+        background-color: #444;
+    }
+    #section1-content {
+        width:100%;
+        color: #fff;
+        margin: auto;
+        display:inline-block;
+        text-align: center;
+        transform: translate(0%, 45%);
+    }
+    </style>
 </head>
 <body>
-  <div id="fullpage">
-    <div class="section" id="section0"><h1>Some section1</h1></div>
-    <div class="section" id="section1"><h1>Some section2</h1></div>
-    <div class="section" id="section2"><h1>Some section3</h1></div>
-    <div class="section" id="section3"><h1>Some section4</h1></div>
-    <div class="section" id="section4"><h1>Some section5</h1></div>
-    <div class="section" id="section5"><h1>Some section6</h1></div>
-  </div>
-  <script type="text/javascript" src="<?php echo get_stylesheet_directory_uri();?>/fullPage/javascript.fullPage.js"></script>
-  <script type="text/javascript">
-  	fullpage.initialize('#fullpage', {
-  		anchors: ['firstPage', 'secondPage', '3rdPage', '4thpage', 'lastPage', 'realLast'],
-  		menu: '#menu',
-  		css3:true
-  	});
-  </script>
+    <div id="fullpage">
+        <!-- Section 0 : Main Page Start -->
+        <div class="section" id="section0">
+            <div id="section0-content">
+                <img src="<?php echo get_template_directory_uri(); ?>/mavenFullLogo.gif" width="500px" height="auto"/>
+                <h3 style="color:#fff">경영정보학과 IT기술 소모임</h3>
+            </div>
+        </div>
+        <!-- Section 0 : Main Page End -->
+        <!-- Section 1 : Main Page Start -->
+        <div class="section" id="section1">
+            <div id="section1-content">
+                <h1>A B O U T</h1>
+                <div class="span wall4">
+
+                </div>
+            </div>
+        </div>
+        <!-- Section 1 : Main Page End -->
+        <div class="section" id="section2">
+            <h1>Some section3</h1>
+        </div>
+        <div class="section" id="section3">
+            <h1>Some section4</h1>
+        </div>
+        <div class="section" id="section4">
+            <h1>Some section5</h1>
+        </div>
+        <div class="section" id="section5">
+            <h1>Some section6</h1>
+        </div>
+    </div>
+    <script type="text/javascript">
+        fullpage.initialize('#fullpage', {
+            anchors: ['1', '2', '3', '4', '5', '6', '7'],
+            menu: '#menu',
+            css3: true
+        });
+    </script>
 </body>
 </html>
 <?php get_footer(); ?>
