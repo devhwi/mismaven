@@ -184,16 +184,20 @@ Posters and still images (first)
   background-color: #74A588;
 }
 
+.info header {
+	background-size: cover;
+}
+
 .scene.first:nth-child(1) .info header {
-	background-image: url(../../imgs/still01.jpeg);
+	background-image: url(../../imgs/members/leejonghwi.jpg);
 }
 
 .scene.first:nth-child(2) .info header {
-	background-image: url(../../imgs/still02.jpeg);
+	background-image: url(../../imgs/members/parkkyungdoo.jpeg);
 }
 
 .scene.first:nth-child(3) .info header {
-	background-image: url(../../imgs/still03.jpeg);
+	background-image: url(../../imgs/members/kimsuhyun.jpeg);
 }
 
 /*************************************
@@ -213,15 +217,16 @@ Posters and still images (second)
 }
 
 .scene.second:nth-child(1) .info header {
-	background-image: url(../../imgs/moonsuyeon.jpeg);
+	background-image: url(../../imgs/members/moonsuyeon.jpeg);
+	background-size: cover;
 }
 
 .scene.second:nth-child(2) .info header {
-	background-image: url(../../imgs/choyonghwan.png);
+	background-image: url(../../imgs/members/choyonghwan.png);
 }
 
 .scene.second:nth-child(3) .info header {
-	background-image: url(../../imgs/woojongmin.jpeg);
+	background-image: url(../../imgs/members/woojongmin.jpeg);
 }
 
 /*************************************
@@ -241,15 +246,15 @@ Posters and still images (third)
 }
 
 .scene.third:nth-child(1) .info header {
-	background-image: url(../../imgs/parkseongmin.jpeg);
+	background-image: url(../../imgs/members/parkseongmin.jpeg);
 }
 
 .scene.third:nth-child(2) .info header {
-	background-image: url(../../imgs/leejeongwoong.jpeg);
+	background-image: url(../../imgs/members/leejeongwoong.jpeg);
 }
 
 .scene.third:nth-child(3) .info header {
-	background-image: url(../../imgs/kimkyungtae.jpeg);
+	background-image: url(../../imgs/members/kimkyungtae.jpeg);
 }
 
 /*************************************
@@ -269,15 +274,15 @@ Posters and still images (fourth)
 }
 
 .scene.fourth:nth-child(1) .info header {
-	background-image: url(../../imgs/kimjinseok.jpeg);
+	background-image: url(../../imgs/members/kimjinseok.jpeg);
 }
 
 .scene.fourth:nth-child(2) .info header {
-	background-image: url(../../imgs/kimjinyoung.jpeg);
+	background-image: url(../../imgs/members/kimjinyoung.jpeg);
 }
 
 .scene.fourth:nth-child(3) .info header {
-	background-image: url(../../imgs/seojeongeun.jpeg);
+	background-image: url(../../imgs/members/seojeongeun.jpeg);
 }
 /*************************************
 Fallback

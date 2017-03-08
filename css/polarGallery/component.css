@@ -16,6 +16,10 @@
 /* Wrapper and figures */
 
 /* The size of this wrapper can be smaller if the items should not be scattered across the whole container */
+.ps-img {
+	max-height: 240px;
+	max-width: 240px;
+}
 .photostack > div {
 	width: 100%;
 	height: 100%;
